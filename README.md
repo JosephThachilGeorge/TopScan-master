@@ -1,2 +1,2 @@
-# TopScan-master
-New Project
+# TopScan-Project
+Python Project
